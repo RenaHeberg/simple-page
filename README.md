@@ -1,2 +1,2 @@
-# renaheberg.github.io
-Open-source website.
+# RenaHeberg
+Open-source website repository.
