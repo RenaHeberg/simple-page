@@ -1,5 +1,5 @@
 # RenaHeberg
-[![Twitter Follow](https://img.shields.io/twitter/follow/renaheberg)](https://twitter.com/renaheberg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/renaheberg)](https://twitter.com/RenaHebergAsso)
 
 Open-source website repository.
 
